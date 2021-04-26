@@ -21,13 +21,12 @@
     "compileHotReLoad": false,
     "useMultiFrameRuntime": true,
     "useApiHook": true,
-    "useApiHostProcess": false,
+    "useApiHostProcess": true,
     "babelSetting": {
       "ignore": [],
       "disablePlugins": [],
       "outputPath": ""
     },
-    "enableEngineNative": false,
     "bundle": false,
     "useIsolateContext": true,
     "useCompilerModule": true,
@@ -37,7 +36,6 @@
     "packNpmRelationList": [],
     "minifyWXSS": true
   },
-  "appid": "wxc73b66041651fc83",
   "projectname": "SlowerDays",
   "libVersion": "2.14.1",
   "condition": {
